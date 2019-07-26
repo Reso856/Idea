@@ -8,13 +8,13 @@ A: Find all candidates, their profile, income statement, assets and criminal cas
 
 B: Find election schedule in your area.
 
-C: Party Agenda.
+C: Party agenda.
 
 D: Schemes that current government has launched.
 
-E: Comparision with previous Government.
+E: Comparision with previous government.
 
-F: The FAQs on voter, election, EVM and Results.
+F: The FAQs on voter, election, EVM and results.
 
 # Implementation
 
