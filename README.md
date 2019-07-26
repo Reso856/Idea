@@ -12,7 +12,7 @@ C: Party Agenda.
 
 D: Schemes that current goverment has launched.
 
-E: Comparision with previous Goverment.
+E: Comparision with previous Government.
 
 F: The FAQs on voter, election, EVM and Results.
 
