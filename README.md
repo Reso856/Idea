@@ -10,7 +10,7 @@ B: Find election schedule in your area.
 
 C: Party Agenda.
 
-D: Schemes that current goverment has launched.
+D: Schemes that current government has launched.
 
 E: Comparision with previous Government.
 
